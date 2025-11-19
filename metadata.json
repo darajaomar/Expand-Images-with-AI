@@ -1,0 +1,5 @@
+{
+  "name": "Expanse AI",
+  "description": "Seamlessly extend and outpaint your images using Gemini AI. Upload a photo, choose a new aspect ratio, and watch the AI fill the borders.",
+  "requestFramePermissions": []
+}
